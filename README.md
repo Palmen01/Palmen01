@@ -1,5 +1,3 @@
-# 👋 Hey there! I'm [Your Name]
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Problem+Solver;Always+Learning" alt="Typing SVG" />
 </div>
@@ -11,7 +9,7 @@ const developer = {
     name: "Simon Palm",
     role: "Full Stack Developer", 
     location: "Gävle, Sweden",
-    languages: ["JavaScript", "Typescript", "C#"],
+    languages: ["JavaScript", "Typescript", "C#", "SQL"],
     currentFocus: "Building scalable web applications",
     hobbies: ["Coding", "Gaming", "Learning new tech"],
     contact: {
@@ -27,6 +25,10 @@ const developer = {
 
 developer.sayHello();
 ```
+🔥 GitHub Streak
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Palmen01&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
 
 ## 📈 Activity Graph
 <div align="center">
@@ -35,7 +37,7 @@ developer.sayHello();
 
 ## 🎯 Current Focus
 
-- 🔭 Working on: **[InWintory]**
+- 🔭 Working on: **InWintory**
 - 🌱 Learning: **Azure, Angular, EFC**
 - 👯 Looking to collaborate on: **Open source projects**
 - 💬 Ask me about: **Web Development, JavaScript, C#**
