@@ -3,7 +3,7 @@
 ```javascript
 const developer = {
     name: "Simon Palm",
-    role: "Full Stack Developer", 
+    role: "FullStack Developer", 
     location: "Gävle, Sweden",
     languages: ["JavaScript", "Typescript", "C#", "SQL"],
     currentFocus: "InWintory a scalable inventory manager",
