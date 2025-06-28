@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Problem+Solver;Always+Learning" alt="Typing SVG" />
 </div>
 
-## 🚀 About Me
+## About Me
 
 ```javascript
 const developer = {
@@ -19,18 +19,18 @@ const developer = {
     },
     
     sayHello() {
-        console.log("Thanks for visiting my profile! Let's connect and build something amazing together! 🚀");
+        console.log("Thanks for visiting my profile! Let's connect and build something amazing together!");
     }
 };
 
 developer.sayHello();
 ```
-🔥 GitHub Streak
+  GitHub Streak
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Palmen01&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
-## 📈 Activity Graph
+## Activity Graph
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Palmen01&theme=react-dark&hide_border=true" alt="Activity Graph"/>
 </div>
